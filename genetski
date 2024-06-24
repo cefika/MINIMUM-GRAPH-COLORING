@@ -1,0 +1,31 @@
+Genetski Algoritam
+
+Genetski algoritam je metoda optimizacije i pretrage inspirisana prirodnom selekcijom, deo evolucione biologije. Koristi populaciju potencijalnih rešenja koja se razvijaju kroz generacije. Svaka generacija prolazi kroz proces selekcije, ukrštanja (crossover) i mutacije kako bi se stvorila nova populacija. Cilj je maksimizirati ili minimizirati funkciju fitnesa, koja meri kvalitet svakog rešenja.
+
+
+screenshot GA
+
+
+Glavna funkcija ga implementira genetski algoritam. Kreira početnu populaciju, sortira je po fitnes vrednosti, selektuje najbolje jedinke (elitizam), ukršta i mutira ostatak populacije, te na kraju vraća najbolje rešenje.
+
+
+screenshot fitness
+
+Funkcija za računanje fitnesa (calc_fitness) određuje kvalitet rešenja tako što računa broj konflikata, gde su konflikti definisani kao parovi susednih čvorova koji imaju istu boju. Takođe, uzima u obzir i broj korišćenih boja. Fitnes vrednost je kombinacija broja konflikata i broja korišćenih boja normalizovanih maksimalnim stepenom grafa. Manja fitnes vrednost znači bolje rešenje.
+
+
+screenshot ukrstanje
+
+Funkcija za ukrštanje (crossover) kreira novu jedinku tj individual (dete) kombinovanjem boja dva roditelja. Za svaki čvor u grafu, boja deteta se nasumično bira iz boje jednog od roditelja. Ovo omogućava kombinovanje karakteristika oba roditelja u novom rešenju, što može dovesti do boljih rešenja.
+
+
+screenshot mutacija
+
+Funkcija za mutaciju (mutation) menja boju jednog nasumično odabranog čvora. Nova boja se bira tako da se izbegne boja susednih čvorova, ako je to moguće. Ova operacija dodaje varijabilnost populaciji i pomaže u izbegavanju lokalnih minimuma, poboljšavajući tako sposobnost algoritma da pronađe globalno optimalno rešenje.
+
+
+screenshot selekcija
+
+Funkcija za turnirsku selekciju (tournament_selection) bira roditelje za ukrštanje tako što nasumično odabira podskup populacije i bira individualca sa najboljom fitnes vrednošću iz tog podskupa. Turnirska selekcija osigurava da se najbolji individualci češće biraju za reprodukciju, dok još uvek daje šansu manje fit individualcima da doprinesu genetskoj varijabilnosti.
+
+
