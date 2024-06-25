@@ -1,0 +1,3 @@
+fajl2.txt
+Broj boja: 4
+Vreme: 0.4474453926086426
