@@ -1,0 +1,15 @@
+Test Case,brute_force_colors,brute_force_time,genetic_algorithm_colors,genetic_algorithm_time,simulated_annealing_colors,simulated_annealing_time
+fajl2,-1.0,inf,105.0,34.884885788,28.0,86.2710375786
+games120,-1.0,inf,16.0,10.1746020317,10.0,18.4363656044
+kompletan,,,6.0,0.6478626728,,
+kompletan graf,-1.0,inf,,,,
+myciel7,-1.0,inf,83.0,1725.3650135994,,
+small_1,3.0,0.0003464222,3.0,0.3729326725,3.0,0.1996467113
+small_2,-1.0,inf,4.0,0.5476953983,,
+small_3,4.0,0.0007874966,4.0,0.3969907761,,
+small_4,3.0,0.0007150173,3.0,0.4116880894,,
+small_5,4.0,0.1012032032,,,,
+small_6,6.0,0.0162665844,6.0,0.4745202065,,
+test1,-1.0,inf,-1.0,inf,,
+test2,-1.0,inf,,,,
+test4,-1.0,inf,3.0,0.7254383564,,

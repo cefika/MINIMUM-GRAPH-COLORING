@@ -1,0 +1,12 @@
+small_1
+Broj boja: 3
+Vreme: 0.1996467113 sekundi
+fajl2
+Broj boja: 34
+Vreme: 85.0552072525sekundi
+fajl2
+Broj boja: 28
+Vreme: 86.2710375786sekundi
+games120
+Broj boja: 10
+Vreme: 18.4363656044sekundi

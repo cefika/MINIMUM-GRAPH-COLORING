@@ -1,0 +1,57 @@
+small_1
+Broj boja: 3
+Vreme: 0.3729326725 sekundi
+kompletan
+Broj boja: 30
+Vreme: 4.9999363422sekundi
+kompletan
+Broj boja: 30
+Vreme: 5.0893802643sekundi
+kompletan
+Broj boja: 6
+Vreme: 0.6478626728sekundi
+small_2
+Broj boja: 4
+Vreme: 0.5476953983sekundi
+small_3
+Broj boja: 4
+Vreme: 0.3969907761sekundi
+small_4
+Broj boja: 3
+Vreme: 0.3335058689sekundi
+small_4
+Broj boja: 3
+Vreme: 0.4116880894sekundi
+small_6
+Broj boja: 6
+Vreme: 0.4745202065sekundi
+fajl2
+Broj boja: 105
+Vreme: 34.8848857880sekundi
+myciel7
+Broj boja: 83
+Vreme: 26.8898713589sekundi
+myciel7
+Broj boja: 15
+Vreme: 10.3247327805sekundi
+games120
+Broj boja: 14
+Vreme: 10.1679687500sekundi
+games120
+Broj boja: 16
+Vreme: 10.1746020317sekundi
+test1
+Broj boja: 152
+Vreme: 138.2559566498sekundi
+test1
+Broj boja: -1
+Vreme: Resenje nije pronadjenosekundi
+test4
+Broj boja: 3
+Vreme: 0.7254383564sekundi
+myciel7
+Broj boja: 82
+Vreme: 1568.7210497856sekundi
+myciel7
+Broj boja: 83
+Vreme: 1725.3650135994sekundi
