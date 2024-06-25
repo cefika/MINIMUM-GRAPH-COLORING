@@ -1,12 +1,36 @@
-small_1
+small1.txt
 Broj boja: 3
-Vreme: 0.1996467113 sekundi
-fajl2
-Broj boja: 34
-Vreme: 85.0552072525sekundi
-fajl2
-Broj boja: 28
-Vreme: 86.2710375786sekundi
-games120
-Broj boja: 10
-Vreme: 18.4363656044sekundi
+Vreme: 0.1451308727 sekundi
+small2.txt
+Broj boja: 5
+Vreme: 0.2864277363sekundi
+fajl2.txt
+Broj boja: 36
+Vreme: 19.0019071102sekundi
+games120.txt
+Broj boja: 11
+Vreme: 8.1634321213sekundi
+myciel7.txt
+Broj boja: 21
+Vreme: 20.7119092941sekundi
+test1.txt
+Broj boja: 0
+Vreme: 136.0618233681sekundi
+test2.txt
+Broj boja: 0
+Vreme: 408.4514925480sekundi
+test4.txt
+Broj boja: 3
+Vreme: 0.2759211063sekundi
+small3.txt
+Broj boja: 4
+Vreme: 0.2174193859sekundi
+small4.txt
+Broj boja: 3
+Vreme: 0.2790248394sekundi
+small5.txt
+Broj boja: 3
+Vreme: 0.3188359737sekundi
+small6.txt
+Broj boja: 6
+Vreme: 0.2198832035sekundi

@@ -1,39 +1,36 @@
-small_1
+small1.txt
 Broj boja: 3
-Vreme: 0.0003464222 sekundi
-small_2
-Broj boja: -1
-Vreme: Premaseno vises od 300 sekundi
-small_3
+Vreme: 0.0002758503sekundi
+small2.txt
 Broj boja: 4
-Vreme: 0.0007874966sekundi
-small_4
+Vreme: 223.0000000000sekundi
+fajl2.txt
+Broj boja: 0
+Vreme: 300.0000000000sekundi
+games120.txt
+Broj boja: 0
+Vreme: 300.0000000000sekundi
+myciel7.txt
+Broj boja: 0
+Vreme: 300.0000000000sekundi
+test1.txt
+Broj boja: 0
+Vreme: 300.0000000000sekundi
+test2.txt
+Broj boja: 0
+Vreme: 300.0000000000sekundi
+test4.txt
+Broj boja: 0
+Vreme: 300.0000000000sekundi
+small3.txt
+Broj boja: 4
+Vreme: 0.0005247593sekundi
+small4.txt
 Broj boja: 3
-Vreme: 0.0007150173sekundi
-small_5
+Vreme: 0.0007140636sekundi
+small5.txt
 Broj boja: 4
-Vreme: 0.1012032032sekundi
-small_6
+Vreme: 0.0254795551sekundi
+small6.txt
 Broj boja: 6
-Vreme: 0.0162665844sekundi
-fajl2
-Broj boja: -1
-Vreme: Premaseno vises od 300 sekundisekundi
-myciel7
-Broj boja: -1
-Vreme: Premaseno vises od 300 sekundisekundi
-games120
-Broj boja: -1
-Vreme: Premaseno vises od 300 sekundisekundi
-kompletan graf
-Broj boja: -1
-Vreme: Premaseno vises od 300 sekundisekundi
-test1
-Broj boja: -1
-Vreme: Premaseno vises od 300 sekundisekundi
-test2
-Broj boja: -1
-Vreme: Premaseno vises od 300 sekundisekundi
-test4
-Broj boja: -1
-Vreme: Premaseno vises od 300 sekundisekundi
+Vreme: 0.0042202473sekundi
