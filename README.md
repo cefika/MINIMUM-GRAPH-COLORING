@@ -20,7 +20,7 @@ This project focuses on solving the Minimum Graph Coloring problem using various
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
+- [Contributors](#contributors)
 
 ## Introduction
 
@@ -61,3 +61,28 @@ You can install these libraries using pip:
 
 ```sh
 pip install numpy networkx matplotlib pandas
+
+```
+
+## Usage
+
+### Clone this repository:
+```sh
+git clone https://github.com/yourusername/minimum-graph-coloring.git
+```
+
+### Navigate to the project dirctory:
+
+```sh
+cd MINIMUM-GRAPH-COLORING
+```
+### Chose the desired algorithm and run the script
+
+## Results
+
+The results of the experiments, including the number of colors used and execution time for each algorithm, are compared in the 'Rezultati' directory. The comparison is provided in a CSV file and visualized using plots.
+
+## Contributors
+- Stefan Mitrovic - [@cefika](https://github.com/cefika)
+- Lazar Rankovic - [@LazarR33](https://github.com/LazarR33)
+
